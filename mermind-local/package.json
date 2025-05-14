@@ -1,0 +1,17 @@
+{
+  "name": "mermaid-ai-generator",
+  "version": "1.0.0",
+  "description": "An application to generate Mermaid diagrams using AI",
+  "main": "frontend/server.js",
+  "scripts": {
+    "start:frontend": "node frontend/server.js",
+    "start:backend": "python backend/main.py",
+    "dev:backend": "uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name or Organization",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
