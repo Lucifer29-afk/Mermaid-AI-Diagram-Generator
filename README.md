@@ -12,6 +12,8 @@ Start application
 
 ![image](https://github.com/user-attachments/assets/22657a1e-9b24-40d2-9f90-116233538bdf)
 
+
+<pre> ```
 pip list
 
 (base) root123@ZHOUBY6-F5G5SLX:/aml/mermaid-local/backend$ pip list
@@ -139,4 +141,6 @@ mermaid-ai-generator@1.0.0 /aml/mermaid-local
 ├── object-assign@4.1.1 extraneous
 ├── tslib@2.8.1 extraneous
 └── web-streams-polyfill@3.3.3 extraneous
+
+``` </pre>
 
